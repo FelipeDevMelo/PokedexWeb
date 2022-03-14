@@ -1,2 +1,2 @@
-# PokedexSite
+# PokedexWeb
 Online poledex
